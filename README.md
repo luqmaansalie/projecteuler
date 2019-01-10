@@ -1,3 +1,3 @@
 # projecteuler
 
-Some python solutiosns
+Some python solutions
